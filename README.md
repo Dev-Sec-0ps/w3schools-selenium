@@ -1,5 +1,5 @@
 # w3schools.com testing with selenium
-E-mail checking (eg. Registration with activation e-mail)
+Registration with activation e-mail
 
 Fill simple form and send (eg. Login)
 
