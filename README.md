@@ -6,6 +6,7 @@ Fill simple form and send (eg. Login)
 Form sending with user
 
 Login and Logout
+
 Static Page test
 
 Reading the page title
